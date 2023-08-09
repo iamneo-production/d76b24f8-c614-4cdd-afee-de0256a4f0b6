@@ -1,0 +1,14 @@
+{
+    "countries":[
+        {
+            "id":1,
+            "name":"United States",
+            "capital":"Washington DC"
+        },
+        {
+            "id":2,
+            "name":"Japan",
+            "capital":"Tokyo"
+        }
+    ]
+}
